@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Ludobico/Ludobico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![terminal](https://user-images.githubusercontent.com/89598307/197460034-c30056dc-ada3-4105-ae87-c1a3b9a05587.gif)
