@@ -2,9 +2,17 @@
 <img src='https://user-images.githubusercontent.com/89598307/197460034-c30056dc-ada3-4105-ae87-c1a3b9a05587.gif'>
 </p>
 
+<div align='center'>
+  <h2>⚒Tools⚒</h2>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
+  <img src="https://img.shields.io/badge/Kali Linux-557C94?style=for-the-badge&logo=Kali Linux&logoColor=white">
+</div>
 
 <div align='center'>
-  <h3>Front-end</h3>
+  <h2>⚙Front-end⚙</h2>
   <img src='https://user-images.githubusercontent.com/89598307/199136916-cac5e493-5032-46fe-9a70-d6803184aac6.gif'>
   <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"'>
@@ -13,9 +21,8 @@
   </div>
 </div>
 
-
 <div align='left'>
-  <h3>Back-end</h3>
+  <h2>⚙Back-end⚙</h2>
   <img src='https://user-images.githubusercontent.com/89598307/199137896-54ff9c40-5685-44ff-92a6-64f82b4fb8b3.gif' width=350px height=250px>
     <div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -24,7 +31,7 @@
 </div>
 
 <div align='left'>
-  <h3>AI</h3>
+  <h2>⚙AI⚙</h2>
   <img src = 'https://user-images.githubusercontent.com/89598307/199143231-35419807-c4fb-44f1-b45d-a1e32cdfd296.gif' width=350px height=250px>
     <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
