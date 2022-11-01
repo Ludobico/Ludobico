@@ -20,4 +20,27 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 
-# ML
+# ML/DL
+<div align='left'>
+<img src = 'https://user-images.githubusercontent.com/89598307/199143231-35419807-c4fb-44f1-b45d-a1e32cdfd296.gif' width=350px height=250px>
+  <div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  </div>
+<div>
+<img src='https://user-images.githubusercontent.com/89598307/199143425-b2276ac8-54b3-4df4-ac18-9e7620544148.png' width=350px height=250px>
+  <div>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/matplotlib-0C1528?style=for-the-badge&logo=Soundcharts&logoColor=white">
+  </div>
+</div>
+<img src='https://user-images.githubusercontent.com/89598307/199143978-c795efa0-8336-4fbc-adc3-9617985ea65d.png' width=350px height=250px>
+  <div>
+  <img src="https://img.shields.io/badge/scikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
+  </div>
+
+</div>
