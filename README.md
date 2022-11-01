@@ -1,7 +1,15 @@
 <p align="center">
 <img src='https://user-images.githubusercontent.com/89598307/197460034-c30056dc-ada3-4105-ae87-c1a3b9a05587.gif'>
 </p>
-
+<div align='center'>
+  <h1>🔗About Me</h1>
+  <p>웹 언어 및 AI를 공부하고 있는 개발자입니다.</p>
+  <p>현재 <img src="https://img.shields.io/badge/Machine_Learning-FF1E0D?style=for-the-badge&logo=MakerBot&logoColor=white">
+  <img src="https://img.shields.io/badge/Deep_Learning-025E8C?style=for-the-badge&logo=Dependabot&logoColor=white">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.js&logoColor=white">
+   을 배우고 있습니다.
+  </p>
+ </div>
 <div align='center'>
   <h2>⚒Tools⚒</h2>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
