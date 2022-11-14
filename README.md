@@ -7,6 +7,7 @@
   <p>현재 <img src="https://img.shields.io/badge/Machine_Learning-FF1E0D?style=for-the-badge&logo=MakerBot&logoColor=white">
   <img src="https://img.shields.io/badge/Deep_Learning-025E8C?style=for-the-badge&logo=Dependabot&logoColor=white">
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
    을 배우고 있습니다.
   </p>
  </div>
