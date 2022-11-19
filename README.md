@@ -30,7 +30,7 @@
   </div>
 </div>
 
-<div align='left'>
+<div align='center'>
   <h2>⚙Back-end⚙</h2>
   <img src='https://user-images.githubusercontent.com/89598307/199137896-54ff9c40-5685-44ff-92a6-64f82b4fb8b3.gif' width=350px height=250px>
     <div>
@@ -39,7 +39,7 @@
     </div>
 </div>
 
-<div align='left'>
+<div align='center'>
   <h2>⚙AI⚙</h2>
   <img src = 'https://user-images.githubusercontent.com/89598307/199143231-35419807-c4fb-44f1-b45d-a1e32cdfd296.gif' width=350px height=250px>
     <div>
