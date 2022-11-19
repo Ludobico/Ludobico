@@ -34,7 +34,6 @@
   <h2>⚙Back-end⚙</h2>
   <img src='https://user-images.githubusercontent.com/89598307/199137896-54ff9c40-5685-44ff-92a6-64f82b4fb8b3.gif' width=350px height=250px>
     <div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
     </div>
 </div>
