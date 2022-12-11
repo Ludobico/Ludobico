@@ -39,11 +39,13 @@
 
 <div align='center'>
   <h2>⚙AI⚙</h2>
-  <img src = 'https://user-images.githubusercontent.com/89598307/199143231-35419807-c4fb-44f1-b45d-a1e32cdfd296.gif' width=350px height=250px>
+  <img src = 'https://user-images.githubusercontent.com/89598307/206904986-81c9ece2-f00a-48d3-a1aa-f45911007ed1.png' width=350px height=250px />
     <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     </div>
   <div>
+  <div align='left'>
+  <h3>⚙AI_Base⚙</h3>
   <img src='https://user-images.githubusercontent.com/89598307/199143425-b2276ac8-54b3-4df4-ac18-9e7620544148.png' width=350px height=250px>
     <div>
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white">
@@ -51,6 +53,10 @@
     <img src="https://img.shields.io/badge/matplotlib-0C1528?style=for-the-badge&logo=Soundcharts&logoColor=white">
     </div>
   </div>
+  </div>
+                                                                                                                  
+  <div align='right'>
+  <h3>⚙AI_Models⚙</h3>
   <img src='https://user-images.githubusercontent.com/89598307/199143978-c795efa0-8336-4fbc-adc3-9617985ea65d.png' width=350px height=250px>
     <div>
     <img src="https://img.shields.io/badge/scikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
@@ -58,5 +64,6 @@
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
     <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=white">
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
+    </div>
     </div>
 </div>
