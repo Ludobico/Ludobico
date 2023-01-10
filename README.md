@@ -63,6 +63,6 @@
   <img src='https://user-images.githubusercontent.com/89598307/199143978-c795efa0-8336-4fbc-adc3-9617985ea65d.png' width=350px height=250px>
     <div>
     <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=white">
-    <img src="https://img.shields.io/badge/Instapaper-1F1F1F?style=for-the-badge&logo=Mediapipe&logoColor=white">
+    <img src="https://img.shields.io/badge/Mediapipe-1F1F1F?style=for-the-badge&logo=Instapaper&logoColor=white">
     </div>
     
